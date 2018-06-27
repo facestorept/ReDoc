@@ -1,7 +1,7 @@
 swagger: '2.0'
 
 info:
-  version: '2.0.0'
+  version: '2.0'
   title: Facestore API
   description: |
       This is a reference to Facestore API.
@@ -99,12 +99,12 @@ info:
     email: apihelp@facestore.pt
     url: http://facestore.pt
 
-host: api.facestore.local
+host: api.facestore.pt
 
 basePath: /v1
 
 schemes:
-  - http
+  - https
 
 consumes:
   - application/json
